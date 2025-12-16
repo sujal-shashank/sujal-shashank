@@ -43,8 +43,10 @@ I am a passionate technologist transitioning from Full-Stack development into th
 ### 📈 GitHub Stats & AI Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujal-shashank&show_icons=true&theme=radical" alt="Sujal's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-shashank&theme=radical" alt="Sujal's GitHub streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sujal-shashank&show_icons=true&theme=radical" alt="Sujal's GitHub stats" width="480" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-shashank&theme=radical" alt="Sujal's GitHub streak" width="480" />
 </p>
 
 ---
