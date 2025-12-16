@@ -1,39 +1,55 @@
 # Hi there, I'm Sujal Shashank 👋
 
-## 🤖 Data Scientist | AI Engineer | Full-Stack AI Developer
+## 🤖 Data Analyst |Data Scientist | AI Engineer | Full-Stack AI Developer
 
-I am a passionate technologist transitioning from Full-Stack development into the world of **Data Science and Artificial Intelligence**. I specialize in bridging the gap between complex machine learning models and scalable web applications. 
+I am a passionate technologist transitioning from Full-Stack development into the world of **Data Science and Artificial Intelligence**. I specialize in bridging the gap between complex machine learning models and scalable web applications. Currently focused on deep learning, predictive analytics, and Generative AI.
 
 ---
 
-### 💻 Data Science & AI Tech Stack
+### 📊 Expertise & Tech Stack
 
-- **Languages:** Python (Pandas, NumPy, Scipy), SQL (PostgreSQL, MySQL), JavaScript
-- **ML & AI:** Scikit-Learn, TensorFlow, NLP, Computer Vision, LLMs
-- **Data Visualization:** Matplotlib, Seaborn, Tableau
-- **Full Stack (Deployment):** FastAPI, Flask, Node.js, MongoDB, Pinecone (Vector DB)
+**Data Science & Analysis**
+* **Languages:** Python (Pandas, NumPy, Scipy), SQL, R
+* **Visualization:** Matplotlib, Seaborn, Tableau/PowerBI
+* **Statistics:** Hypothesis Testing, Probability, Regression Analysis
+
+**Artificial Intelligence & ML**
+* **Frameworks:** Scikit-Learn, TensorFlow, PyTorch
+* **Specializations:** Natural Language Processing (NLP), Computer Vision, LLMs
+* **Tools:** Jupyter Notebooks, Google Colab, HuggingFace
+
+**Deployment & Full-Stack (The "AI-Integrated" Edge)**
+* **Backend:** FastAPI, Flask, Node.js (for Model APIs)
+* **Database:** MongoDB, PostgreSQL, Vector Databases (Pinecone/ChromaDB)
+* **DevOps:** Docker, Git, AWS/GCP Basics
+
+---
+
+### 🔬 Current Learning Path
+- 🧠 Deepening my knowledge in **Large Language Models (LLMs)** and RAG pipelines.
+- 📈 Mastering **Advanced Statistical Modeling** for data-driven decision making.
+- 🏗️ Building end-to-end **MERN + AI** applications.
+
+---
+
+### 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/sujal-shashank)
+- 🔗 [Data Science Portfolio](https://sujal-shashank.github.io/personalPortfolio/)
+- 📧 [Email Me](mailto:your-email@example.com)
 
 ---
 
 ### 📈 GitHub Stats & AI Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujal-shashank&show_icons=true&theme=radical" alt="Sujal's GitHub stats" width="480" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sujal-shashank&theme=radical" alt="Sujal's GitHub streak" width="480" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sujal-shashank&show_icons=true&theme=radical" alt="Sujal's GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sujal-shashank&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🌐 Socials & Portfolio
-
-- 💼 [LinkedIn](https://linkedin.com/in/sujal-shashank)
-- 🔗 [Portfolio Website](https://sujal-shashank.github.io/personalPortfolio/)
-- 📧 [Email Me](mailto:your-email@example.com)
-
----
-
-### 🛠️ Current Goals
-* 🚀 Building end-to-end Machine Learning pipelines.
-* 🧠 Exploring Generative AI and RAG applications.
-* 📈 Seeking roles in Data Analytics and AI Engineering.
+### ⚡ Fun Facts
+- 🎨 I apply my "artist's eye" to **Data Visualization**—making complex data beautiful and easy to read.
+- 🎮 Gamer who is fascinated by **Reinforcement Learning** in NPCs and Game AI.
+- 🛠️ Open to collaborating on **Open Source AI** projects and Data Analytics challenges.
