@@ -35,7 +35,7 @@ I am a passionate technologist transitioning from Full-Stack development into th
 ### 🌐 Connect with Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/sujal-shashank)
-- 🔗 [Data Science Portfolio](https://sujal-shashank.github.io/personalPortfolio/)
+- 🔗 [Portfolio](https://sujalshashank.work/)
 - 📧 [Email Me](mailto:your-email@example.com)
 
 ---
