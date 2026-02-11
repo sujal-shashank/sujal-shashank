@@ -157,10 +157,10 @@ I am a passionate technologist transitioning from Full-Stack development into th
 Data Analysis & Python  ████████████████████░  95%
 SQL & Databases         ███████████████████░░  90%
 Power BI & Tableau      ██████████████████░░░  85%
-Machine Learning        ████████████████░░░░░  80%
 Statistical Analysis    ████████████████░░░░░  80%
 Deep Learning & AI      ███████████████░░░░░░  75%
 Full-Stack Development  ██████████████░░░░░░░  70%
+Machine Learning        █████████░░░░░░░░░░░░  40%
 ```
 
 ---
