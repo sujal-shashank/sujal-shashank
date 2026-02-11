@@ -4,11 +4,20 @@
 
 <h3 align="center">🤖 Data Analyst | Data Scientist | AI Engineer | Full-Stack AI Developer</h3>
 
+
 <p align="center">
   <a href="https://linkedin.com/in/sujal-shashank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://sujalshashank.work"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:sujalshashank01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects_Deployed-5+-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Records_Analyzed-50K+-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Accuracy_Achieved-98.5%25-red?style=for-the-badge"/>
+</p>
+
 
 ---
 
@@ -138,6 +147,7 @@ I am a passionate technologist transitioning from Full-Stack development into th
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-shashank&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
+
 ---
 
 ## 🏆 Certifications & Achievements
@@ -164,6 +174,9 @@ Machine Learning        █████████░░░░░░░░░�
 ```
 
 ---
+
+
+
 
 ## 🎯 Key Achievements
 
